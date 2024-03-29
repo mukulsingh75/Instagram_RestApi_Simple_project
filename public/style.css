@@ -1,0 +1,19 @@
+h2{
+    font-weight: 900;
+    font-family: sans-serif;
+}
+.post{
+    background-color: pink;
+}
+.user{
+    color: rgb(248, 241, 241);
+    background-color: darkorchid;
+}
+.status{
+    color: brown;
+    background-color: coral;
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
